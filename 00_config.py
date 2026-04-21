@@ -27,8 +27,8 @@
 # COMMAND ----------
 
 # DBTITLE 1,変数設定
-catalog_name = "handson"                    # 任意のカタログ名に変更してください
-schema_name = "delta_lake_yourname"         # 任意のスキーマ名に変更してください
+catalog_name = "handson"                     # 任意のカタログ名に変更してください
+schema_name = "delta_lake_yourname"          # 任意のスキーマ名に変更してください
 
 # COMMAND ----------
 
